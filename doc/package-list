@@ -1,0 +1,10 @@
+ubc.pavlab.gotrack.constants
+ubc.pavlab.gotrack.database
+ubc.pavlab.gotrack.go
+ubc.pavlab.gotrack.mapping
+ubc.pavlab.gotrack.pmid
+ubc.pavlab.gotrack.preprocessing
+ubc.pavlab.gotrack.test
+ubc.pavlab.gotrack.textparser
+ubc.pavlab.gotrack.tools
+ubc.pavlab.gotrack.utils
